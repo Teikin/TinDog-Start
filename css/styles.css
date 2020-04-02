@@ -14,12 +14,13 @@ body {
 h1 {
   font-family: "Montserrat";
   font-weight: 900;
+  font-size: 3.5rem;
   line-height: 1.5;
 }
 
 /* navigation Bar */
 .navbar {
-  padding-bottom: 4.5rem;
+  padding: 0 0 4.5rem;
 }
 .navbar-brand {
   font-family: "Ubuntu";
@@ -33,5 +34,17 @@ h1 {
 
 .nav-link {
   font-family: "Montserrat-Light";
-  font-size: 1.2rem;
+  font-size: 1.3rem;
+}
+
+/* buttons */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title image */
+.title-image {
+  width: 75%;
+  transform: rotate(25deg);
+  padding: 0 18px;
 }
