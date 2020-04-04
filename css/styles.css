@@ -126,3 +126,13 @@ ion-icon:hover {
   width: 16%;
   margin: 20px 20px 50px;
 }
+
+/* Pricing Section */
+#pricing {
+  text-align: center;
+  padding: 100px;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
